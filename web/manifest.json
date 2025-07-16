@@ -1,0 +1,35 @@
+{
+    "name": "flutter_scroll_performance_lab",
+    "short_name": "flutter_scroll_performance_lab",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A Flutter demo app showcasing real-world scrollable widget implementations including ListView, ListView.builder, CustomScrollView with SliverList, and shrinkWrap behavior. The app is designed for performance comparison using Flutter DevTools, highlighting best practices and performance trade-offs for scrollable UI design in Flutter.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
