@@ -10,6 +10,7 @@ class SliverListTab extends StatelessWidget {
     return CustomScrollView(
       slivers: [
         const SliverAppBar(
+          surfaceTintColor:Colors.blue,
           pinned: true,
           expandedHeight: 100,
           flexibleSpace: FlexibleSpaceBar(title: Text('Sliver List')),
